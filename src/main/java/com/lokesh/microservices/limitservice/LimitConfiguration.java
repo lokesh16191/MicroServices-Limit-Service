@@ -20,7 +20,4 @@ public class LimitConfiguration {
 		this.maximum = maximum;
 		this.minimum = minimum;
 	}
-	public LimitConfiguration() {
-
-	}	
 }
